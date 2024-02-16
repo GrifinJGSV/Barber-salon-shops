@@ -10,7 +10,7 @@
 package Vistas;
 import Controlador.ServiciosParaVenta;
 
-import static Vistas.CrearVentaServicio.btnTratamiento;
+//import static Vistas.CrearVentaServicio.btnTratamiento;
 import static Vistas.CrearVentaServicio.tblServicio;
 import java.io.IOException;
 import java.lang.System.Logger;
